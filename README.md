@@ -1,1 +1,1 @@
-# ![Visitor Count](https://komarev.com/ghpvc/?username=jayashree1100&label=Profile%20Views&color=0e75b6&style=flat)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=repo)
