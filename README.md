@@ -1,1 +1,1 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=repo)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jayashree1100/Jayashree-Profile)
